@@ -2,7 +2,7 @@
 
 ## This repo is for Learning purpose
 
-DeepSORT is a popular tracking algorithm that combines object detection, Kalman filtering, and deep appearance descriptors for single object tracking. In this README, I'll explain the key components of DeepSORT and how it works.
+DeepSORT is a popular tracking algorithm that combines object detection, Kalman filtering, and deep appearance descriptors for single object tracking. In this README, the key components of DeepSORT are discussed.
 
 ## Components of DeepSORT
 DeepSORT involves several key components and steps to track objects in a video sequence:
